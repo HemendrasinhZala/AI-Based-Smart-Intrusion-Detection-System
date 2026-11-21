@@ -214,6 +214,14 @@ There is still plenty of scope to improve the system. Some ideas for future deve
 - Adding remote access and security management.
 - Improving the accuracy of sensor fusion and threat scoring.
 
+## 🎥 Project Demonstration
+
+Want to see the system in action?
+
+▶️ **[Watch the AI-Based Smart Intrusion Detection System Demo](https://drive.google.com/file/d/1jj3tKXgg7n-h1hYDP18Tn_SKWRGBnHM9/view?usp=sharing)**
+
+The demonstration showcases the project setup and its intrusion detection alert system.
+
 ## 🎓 Academic Note
 
 This project was developed as part of an academic project under Gujarat Technological University (GTU). It provided an opportunity to apply concepts from Artificial Intelligence, Computer Vision, and sensor integration to a practical security-related problem.
@@ -232,3 +240,5 @@ Gujarat Technological University (GTU)
 ## ⚠️ Disclaimer
 
 This project was developed for academic and educational purposes. Its performance may vary depending on the environment, camera quality, hardware configuration, and sensor placement. It is intended as a demonstration of an AI-based security system and is not a replacement for certified professional security solutions.
+
+
