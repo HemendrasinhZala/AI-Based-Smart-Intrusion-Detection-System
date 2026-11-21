@@ -1,0 +1,39 @@
+# ============================
+# AI / Machine Learning
+# ============================
+torch
+torchvision
+ultralytics
+
+# ============================
+# Computer Vision
+# ============================
+opencv-python
+opencv-contrib-python
+numpy
+Pillow
+imutils
+
+# ============================
+# Utilities
+# ============================
+python-dotenv
+tqdm
+pandas
+loguru
+pyserial
+
+# ============================
+# Raspberry Pi
+# ============================
+gpiozero
+
+# ============================
+# Audio
+# ============================
+pygame
+
+# ============================
+# GUI
+# ============================
+PySide6
